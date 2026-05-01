@@ -13,8 +13,8 @@
  - 0B // Subract Register to Register
  - 0C // Multiply Register to Register
  - 0D // Divide Register to Register
- - 0E // Minimum
- - 0F // Maximum
+ - 0E // Remainder Register to Register
+ - 0F // 
  - 10 // AND Register to Register
  - 11 // OR Register to Register
  - 12 // XOR Register to Register
