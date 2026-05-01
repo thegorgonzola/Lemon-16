@@ -9,4 +9,15 @@
  - 07 // Jump to VRAM
  - 08 // Jump to VRAM if Zero
  - 09 // Return
- - 0A // 
+ - 0A // Add Float
+ - 0B // Subtract Float
+ - 0C // Multiply Float
+ - 0D // Divide Float
+ - 0E // Remainder Float
+ - 0F // Negative Float
+ - 10 // Add Integer
+ - 11 // Subtract Integer
+ - 12 // Multiply Integer
+ - 13 // Divide Integer
+ - 14 // Remainder Integer
+ - 15 // Negative Integer
