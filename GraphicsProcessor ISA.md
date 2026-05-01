@@ -21,3 +21,13 @@
  - 13 // Divide Integer
  - 14 // Remainder Integer
  - 15 // Negative Integer
+ - 16 // 
+ - 17 // 
+ - 18 // 
+ - 19 // 
+ - 1A //
+ - 1B // 
+ - 1C // 
+ - 1D // 
+ - 1E // 
+ - 1F //
