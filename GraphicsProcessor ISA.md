@@ -1,67 +1,12 @@
 ## Processor Instruction Set
  - 00 // No Operation
- - 01 // Store Value to Register
- - 02 // Store Register to Register
- - 03 // Store Register to Register if Zero
- - 04 // Store Register to Register if Equal
- - 05 // Store Register to Register if Less
- - 06 // Store Register to Register if More
- - 07 // Jump to Register
- - 08 // Jump to Register if Zero
+ - 01 // Store Value to VRAM
+ - 02 // Store VRAM to VRAM
+ - 03 // Store VRAM to VRAM if Zero
+ - 04 // Store VRAM to VRAM if Equal
+ - 05 // Store VRAM to VRAM if Less
+ - 06 // Store VRAM to VRAM if More
+ - 07 // Jump to VRAM
+ - 08 // Jump to VRAM if Zero
  - 09 // Return
- - 0A // Add Register to Register
- - 0B // Subract Register to Register
- - 0C // Multiply Register to Register
- - 0D // Divide Register to Register
- - 0E // Minimum
- - 0F // Maximum
- - 10 // AND Register to Register
- - 11 // OR Register to Register
- - 12 // XOR Register to Register
- - 13 // NOT Register to Register
- - 14 // Shift Register Left
- - 15 // Shift Register Right
- - 16 // Push Register to Stack
- - 17 // Pop Stack to Register
- - 18 // 
- - 19 // 
- - 1A // Store Register to RAM
- - 1B // Store RAM to Register
- - 1C // Push Packet to Bus Device
- - 1D // Request Packet from Bus Device
- - 1E // 
- - 1F // 
-
-### Processor Registers
- - 00 // General Purpose
- - 01 // General Purpose
- - 02 // General Purpose
- - 03 // General Purpose
- - 04 // General Purpose
- - 05 // General Purpose
- - 06 // General Purpose
- - 07 // General Purpose
- - 08 // General Purpose
- - 09 // General Purpose
- - 0A // General Purpose
- - 0B // General Purpose
- - 0C // General Purpose
- - 0D // General Purpose
- - 0E // General Purpose
- - 0F // General Purpose
- - 10 // Unused - General Purpose (for now, don't use unless these absolutely needed)
- - 11 // Unused - General Purpose
- - 12 // Unused - General Purpose
- - 13 // Unused - General Purpose
- - 14 // Unused - General Purpose
- - 15 // Unused - General Purpose
- - 16 // Unused - General Purpose
- - 17 // Unused - General Purpose
- - 18 // Unused - General Purpose
- - 19 // Unused - General Purpose
- - 1A // Unused - General Purpose
- - 1B // Unused - General Purpose
- - 1C // Unused - General Purpose
- - 1D // Unused - General Purpose
- - 1E // Unused - General Purpose
- - 1F // Bus Heartbeats
+ - 0A // 
