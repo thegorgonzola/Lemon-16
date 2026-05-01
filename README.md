@@ -22,6 +22,6 @@ The Lemon-16 is a small emulator for a virtual 16-bit computer.
 
 ## Processor Instruction Set
 (for nerds like me)
-00 // No Operation
+00 // No Operation\n
 01 // Store Value to Register
 02 // Store 
