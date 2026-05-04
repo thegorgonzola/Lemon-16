@@ -6,7 +6,7 @@ The Lemon-16 is a small emulator for a virtual 16-bit computer.
 ### Processor
  - 16-Bit Processor
  - 16MHz Processor Speed
- - Custom Processor Architecture
+ - Custom Processor Architecture (technically a RISC architecture)
 
 ### Memory
  - 32 Registers
