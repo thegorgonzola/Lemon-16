@@ -32,7 +32,7 @@
  - 1E // 
  - 1F // 
 
-### Processor Registers
+## Processor Registers
  - 00 // General Purpose
  - 01 // General Purpose
  - 02 // General Purpose
@@ -56,12 +56,12 @@
  - 14 // Unused - General Purpose
  - 15 // Unused - General Purpose
  - 16 // Unused - General Purpose
- - 17 // Unused - General Purpose
- - 18 // Unused - General Purpose
+ - 17 // Interupt Descriptor Table Location (Top)
+ - 18 // Interupt Descriptor Table Location (Bottom)
  - 19 // BIOS Mode
  - 1A // Bus Heartbeats
- - 1B // RAM Address Top
- - 1C // RAM Address Bottom
+ - 1B // RAM Address (Top)
+ - 1C // RAM Address (Bottom)
  - 1D // Stack Pointer
- - 1E // Program Counter Top
- - 1F // Program Counter Bottom
+ - 1E // Program Counter (Top)
+ - 1F // Program Counter (Bottom)
