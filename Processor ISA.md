@@ -58,10 +58,10 @@
  - 16 // Unused - General Purpose
  - 17 // Unused - General Purpose
  - 18 // Unused - General Purpose
- - 19 // Unused - General Purpose
- - 1A // Unused - General Purpose
- - 1B // Unused - General Purpose
- - 1C // Unused - General Purpose
- - 1D // Unused - General Purpose
- - 1E // Unused - General Purpose
- - 1F // Bus Heartbeats
+ - 19 // BIOS Mode
+ - 1A // Bus Heartbeats
+ - 1B // RAM Address Top
+ - 1C // RAM Address Bottom
+ - 1D // Stack Pointer
+ - 1E // Program Counter Top
+ - 1F // Program Counter Bottom
