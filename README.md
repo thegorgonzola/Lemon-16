@@ -1,5 +1,5 @@
 # Lemon-16
-The Lemon-16 is a small emulator for a virtual 16-bit computer.
+The Lemon-16 is a small emulator for a virtual 16-bit computer.<br/>
 
 
 ## Features
