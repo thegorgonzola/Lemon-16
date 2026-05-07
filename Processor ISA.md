@@ -55,11 +55,11 @@
  - 13 // Unused - General Purpose
  - 14 // Unused - General Purpose
  - 15 // Unused - General Purpose
- - 16 // Unused - General Purpose
+ - 16 // BIOS Mode
  - 17 // Interupt Descriptor Table Location (Top)
  - 18 // Interupt Descriptor Table Location (Bottom)
- - 19 // BIOS Mode
- - 1A // Bus Heartbeats
+ - 19 // Bus Heartbeats A
+ - 1A // Bus Heartbeats B
  - 1B // RAM Address (Top)
  - 1C // RAM Address (Bottom)
  - 1D // Stack Pointer
