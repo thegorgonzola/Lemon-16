@@ -29,7 +29,7 @@
  - 1B // Store RAM to Register
  - 1C // Push Packet to Bus Device
  - 1D // Request Packet from Bus Device
- - 1E // 
+ - 1E // Recieve Packet from Bus Device
  - 1F // 
 
 ## Processor Registers
