@@ -7,29 +7,29 @@
  - 05 // Store Register to Register if Less
  - 06 // Store Register to Register if More
  - 07 // 
- - 08 // 
- - 09 // 
+ - 08 // Increment Register
+ - 09 // Decrement Register
  - 0A // Add Register to Register
  - 0B // Subract Register to Register
  - 0C // Multiply Register to Register
  - 0D // Divide Register to Register
  - 0E // Remainder Register to Register
- - 0F // Increase Register
+ - 0F // 
  - 10 // AND Register to Register
  - 11 // OR Register to Register
  - 12 // XOR Register to Register
  - 13 // NOT Register to Register
  - 14 // Shift Register Left
  - 15 // Shift Register Right
- - 16 // Push Register to Stack (Pointer A)
- - 17 // Pop Stack to Register (Pointer A)
- - 18 // Push Register to Stack (Pointer B)
- - 19 // Pop Stack to Register (Pointer B)
+ - 16 // Push Register to Stack at Pointer A
+ - 17 // Pop Stack at Pointer A to Register
+ - 18 // Push Register to Stack at Pointer B
+ - 19 // Pop Stack at Pointer B to Register
  - 1A // Store Register to RAM
  - 1B // Store RAM to Register
- - 1C // Push Packet to Bus Device
- - 1D // Request Packet from Bus Device
- - 1E // Recieve Packet from Bus Device
+ - 1C // Send Data Packet to Bus Device
+ - 1D // Request Data Packet from Bus Device
+ - 1E // 
  - 1F // 
 
 ## Processor Registers
