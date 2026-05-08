@@ -11,9 +11,13 @@ The Lemon-16 is a small emulator for a virtual 16-bit computer.<br/>
  - 32 Registers
  - 65KB Stack
  - 32-Bit RAM Addressing (can support up to 4GB; defaults to 2GB)
- - 64-Bit SSD Addressing (can support up to 9ZB; defaults to 16GB)
+ - 64-Bit Hard Drive Addressing (can support up to 9ZB; defaults to 16GB)
 
 ### Graphics
- - 1280 x 720 Screen (can support anything you can fit in VRAM)
- - Dedicated Graphics Processor
- - Linear Algebra Functions
+ - Dedicated Graphics Processor \(counts as a device; [see below](#Devices)\)
+ - 32-Bit Processing and Colors
+ - Math Optimized
+
+### Devices
+ - Bus Devices, anything like Hard Drives, 
+ - Supports up to 32 Devices
