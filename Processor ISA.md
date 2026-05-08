@@ -21,8 +21,8 @@
  - 13 // NOT Register to Register
  - 14 // Shift Register Left
  - 15 // Shift Register Right
- - 16 // Push Register to Stack
- - 17 // Pop Stack to Register
+ - 16 // Push Register to Stack (Pointer A)
+ - 17 // Pop Stack to Register (Pointer A)
  - 18 // Push Register to Stack (Pointer B)
  - 19 // Pop Stack to Register (Pointer B)
  - 1A // Store Register to RAM
