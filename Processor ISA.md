@@ -23,8 +23,8 @@
  - 15 // Shift Register Right
  - 16 // Push Register to Stack
  - 17 // Pop Stack to Register
- - 18 // 
- - 19 // 
+ - 18 // Push Register to Stack (Pointer B)
+ - 19 // Pop Stack to Register (Pointer B)
  - 1A // Store Register to RAM
  - 1B // Store RAM to Register
  - 1C // Push Packet to Bus Device
