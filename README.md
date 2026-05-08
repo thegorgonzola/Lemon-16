@@ -16,6 +16,7 @@ The Lemon-16 is a small emulator for a virtual 16-bit computer.<br/>
 
 ### Graphics
 - Dedicated Graphics Processor \(counts as a device; [see below](#Devices)\)
+- L16G32 Processor Architecture
 - 32-Bit Processing and Colors
 - Math Optimized
 
