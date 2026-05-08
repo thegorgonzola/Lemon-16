@@ -49,11 +49,11 @@
  - 0D // General Purpose
  - 0E // General Purpose
  - 0F // General Purpose
- - 10 // Unused - General Purpose (for now, don't use unless these absolutely needed)
- - 11 // Unused - General Purpose
- - 12 // Unused - General Purpose
- - 13 // Unused - General Purpose
- - 14 // Unused - General Purpose
+ - 10 // Unused (for now, don't use unless these absolutely needed)
+ - 11 // Unused
+ - 12 // Unused
+ - 13 // Unused
+ - 14 // Unused
  - 15 // BIOS Mode
  - 16 // Stack Pointer A
  - 17 // Stack Pointer B
