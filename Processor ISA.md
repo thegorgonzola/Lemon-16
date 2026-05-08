@@ -6,8 +6,8 @@
  - 04 // Store Register to Register if Equal
  - 05 // Store Register to Register if Less
  - 06 // Store Register to Register if More
- - 07 // Jump to Register
- - 08 // Jump to Register if Zero
+ - 07 // 
+ - 08 // 
  - 09 // 
  - 0A // Add Register to Register
  - 0B // Subract Register to Register
