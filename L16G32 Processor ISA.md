@@ -6,9 +6,9 @@
  - 04 // Store VRAM to VRAM if Equal
  - 05 // Store VRAM to VRAM if Less
  - 06 // Store VRAM to VRAM if More
- - 07 // Jump to VRAM
- - 08 // Jump to VRAM if Zero
- - 09 // Return
+ - 07 // 
+ - 08 // Push VRAM onto Stack
+ - 09 // Pop Stack onto VRAM
  - 0A // Add Float
  - 0B // Subtract Float
  - 0C // Multiply Float
