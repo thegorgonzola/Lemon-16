@@ -1,4 +1,4 @@
-## Processor Instruction Set
+## L16G32 Processor Instruction Set
  - 00 // No Operation
  - 01 // Store Value to VRAM
  - 02 // Store VRAM to VRAM
